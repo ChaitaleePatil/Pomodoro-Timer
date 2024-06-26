@@ -23,4 +23,4 @@ Here are some snapshots of the Pomodoro Timer in action:
 
 1. Run the Python script:
    ```bash
-   python pomodoro_timer.py
+   python main.py
